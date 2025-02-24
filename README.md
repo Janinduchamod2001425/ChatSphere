@@ -1,5 +1,7 @@
 # ChatSphere
 
+![ChatSphere thumbnail](cover/chatapp.png)
+
 ChatSphere is a real-time, multi-user chat application that allows users to communicate seamlessly in a shared space. It supports both broadcast messaging (sending messages to all users) and private messaging (sending messages to specific users). The application is built with a focus on simplicity, scalability, and real-time interaction.
 
 ### 🤖 Key Features:
